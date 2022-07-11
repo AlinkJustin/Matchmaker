@@ -1,0 +1,16 @@
+C:\Users\Justin\source\repos\MatchMaker\MatchMaker\MatchMaker\bin\Debug\netstandard2.1\MatchMaker.deps.json
+C:\Users\Justin\source\repos\MatchMaker\MatchMaker\MatchMaker\bin\Debug\netstandard2.1\MatchMaker.dll
+C:\Users\Justin\source\repos\MatchMaker\MatchMaker\MatchMaker\bin\Debug\netstandard2.1\ref\MatchMaker.dll
+C:\Users\Justin\source\repos\MatchMaker\MatchMaker\MatchMaker\bin\Debug\netstandard2.1\MatchMaker.pdb
+C:\Users\Justin\source\repos\MatchMaker\MatchMaker\MatchMaker\obj\Debug\netstandard2.1\MatchMaker.csproj.AssemblyReference.cache
+C:\Users\Justin\source\repos\MatchMaker\MatchMaker\MatchMaker\obj\Debug\netstandard2.1\MatchMaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Justin\source\repos\MatchMaker\MatchMaker\MatchMaker\obj\Debug\netstandard2.1\App.xaml.g.cs
+C:\Users\Justin\source\repos\MatchMaker\MatchMaker\MatchMaker\obj\Debug\netstandard2.1\MainPage.xaml.g.cs
+C:\Users\Justin\source\repos\MatchMaker\MatchMaker\MatchMaker\obj\Debug\netstandard2.1\Settings.xaml.g.cs
+C:\Users\Justin\source\repos\MatchMaker\MatchMaker\MatchMaker\obj\Debug\netstandard2.1\MatchMaker.AssemblyInfoInputs.cache
+C:\Users\Justin\source\repos\MatchMaker\MatchMaker\MatchMaker\obj\Debug\netstandard2.1\MatchMaker.AssemblyInfo.cs
+C:\Users\Justin\source\repos\MatchMaker\MatchMaker\MatchMaker\obj\Debug\netstandard2.1\MatchMaker.csproj.CoreCompileInputs.cache
+C:\Users\Justin\source\repos\MatchMaker\MatchMaker\MatchMaker\obj\Debug\netstandard2.1\XamlC.stamp
+C:\Users\Justin\source\repos\MatchMaker\MatchMaker\MatchMaker\obj\Debug\netstandard2.1\MatchMaker.dll
+C:\Users\Justin\source\repos\MatchMaker\MatchMaker\MatchMaker\obj\Debug\netstandard2.1\ref\MatchMaker.dll
+C:\Users\Justin\source\repos\MatchMaker\MatchMaker\MatchMaker\obj\Debug\netstandard2.1\MatchMaker.pdb

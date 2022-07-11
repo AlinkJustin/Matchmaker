@@ -1,0 +1,130 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\wingz\\source\\repos\\MatchMaker\\MatchMaker\\MatchMaker.Android\\MatchMaker.Android.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\wingz\\source\\repos\\MatchMaker\\MatchMaker\\MatchMaker.Android\\MatchMaker.Android.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\wingz\\source\\repos\\MatchMaker\\MatchMaker\\MatchMaker.Android\\MatchMaker.Android.csproj",
+        "projectName": "MatchMaker.Android",
+        "projectPath": "C:\\Users\\wingz\\source\\repos\\MatchMaker\\MatchMaker\\MatchMaker.Android\\MatchMaker.Android.csproj",
+        "packagesPath": "C:\\Users\\wingz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\wingz\\source\\repos\\MatchMaker\\MatchMaker\\MatchMaker.Android\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\wingz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid12.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid12.0": {
+            "projectReferences": {
+              "C:\\Users\\wingz\\source\\repos\\MatchMaker\\MatchMaker\\MatchMaker\\MatchMaker.csproj": {
+                "projectPath": "C:\\Users\\wingz\\source\\repos\\MatchMaker\\MatchMaker\\MatchMaker\\MatchMaker.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid12.0": {
+          "dependencies": {
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.7.1, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.2337, )"
+            }
+          }
+        }
+      }
+    },
+    "C:\\Users\\wingz\\source\\repos\\MatchMaker\\MatchMaker\\MatchMaker\\MatchMaker.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\wingz\\source\\repos\\MatchMaker\\MatchMaker\\MatchMaker\\MatchMaker.csproj",
+        "projectName": "MatchMaker",
+        "projectPath": "C:\\Users\\wingz\\source\\repos\\MatchMaker\\MatchMaker\\MatchMaker\\MatchMaker.csproj",
+        "packagesPath": "C:\\Users\\wingz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\wingz\\source\\repos\\MatchMaker\\MatchMaker\\MatchMaker\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\wingz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Nancy": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.7.1, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.2337, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
