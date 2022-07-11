@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "44d3ba0c-a66a-42d2-8a05-8bbb099854ad": {
+      "ProjectGuid": "44d3ba0c-a66a-42d2-8a05-8bbb099854ad",
+      "DisplayName": "MatchMaker",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "d23c8e23-e4fd-44ec-a4ca-b0f70dac78e2": {
+      "ProjectGuid": "d23c8e23-e4fd-44ec-a4ca-b0f70dac78e2",
+      "DisplayName": "MatchMaker.UnitTests",
+      "ColorIndex": 1
+    },
+    "44b18d4c-bc40-472e-89ce-d569d8386a7c": {
+      "ProjectGuid": "44b18d4c-bc40-472e-89ce-d569d8386a7c",
+      "DisplayName": "MatchMaker.Android",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
